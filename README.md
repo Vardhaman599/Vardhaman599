@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Frising-sun&psig=AOvVaw0fKsh4vHts0FgywoiJZllO&ust=1711271399298000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODDwvCEioUDFQAAAAAdAAAAABAJtext=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 - 👋 Hi, I’m @Vardhaman599
 - 👀 I’m interested in Data Science
