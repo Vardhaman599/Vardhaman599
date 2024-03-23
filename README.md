@@ -5,6 +5,8 @@
 - 📫 How to reach me https://www.linkedin.com/in/vardhamanpandit/
 - 📫 How to reach me vardhamanpandit108@gmail.com
 <!---
-Vardhaman599/Vardhaman599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vardh<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>aman599/Vardhaman599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
